@@ -11,6 +11,7 @@ On Ubuntu/MacOS:
  - flask run
 
 On Windows
-set FLASK_APP = flask_auth
-set FLASK_DEBUG = 1
-flask run
+
+ - set FLASK_APP = flask_auth
+ - set FLASK_DEBUG = 1
+ - flask run
